@@ -18,6 +18,18 @@
 
    - Diseño:
 
+     Divide el producto en diversas partes para que se puedan manejar por separado y puedan diseñarse de manera más rápida y eficiente. También se decide la relación entre los componentes del producto
+
+   - Codificación:
+
+     Se escribe el código fuente del producto y se decide en que lenguaje se va a codificar el producto. Será el más apropiado para ese producto, tanto si es Java, C-Sharp o JavaScript.
+
+   - Prueba:
+
+     El objetivo real es que el código no funcione bien para así subsanar los posibles errores del codigo y hacer una entrega sin bug al cliente.
+
+   - Mantenimiento:
+
      
 
    
