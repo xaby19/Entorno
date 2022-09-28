@@ -62,10 +62,10 @@
 
 6. Explica como funciona el modelo de desarrollo mediante creación de prototipos.
 
-   * Se enseña un primer diseño al cliente para que de su opinión y vea en que estamos trabajando, de este modo hay un feedback y puede a ver cambio en los requisitos. Esto se repita tantas veces como sea necesario hasta que el prototipo este a la venta.
+   * Se enseña un primer diseño al cliente para que de su opinión y vea en que estamos trabajando, de este modo hay un feedback y puede a 	ver cambio en los requisitos. Esto se repita tantas veces como sea necesario hasta que el prototipo este a la venta.
    * hay dos tipos de *prototipos*:
-   * El prototipo rápido que se puede desatollar el mismo lenguaje o herramienta y finalmente se desecha para acabar vendiendo el proyecto en si basado en ese prototipo. (se lanza al mercado lo antes posible para ocupar ese hueco que el proyecto quiere ocupar).
-   * El evolutivo, se comporta muy similar que el rápido solo que no busca yenar el hueco de mercado lo antes posible, ya que se crea un prototipo en el mismo lenguaje o herramienta que el proyecto para después basarse en el y crear el proyecto en esa base.
+   * El prototipo rápido que se puede desatollar el mismo lenguaje o herramienta y finalmente se desecha para acabar vendiendo el proyecto 	en si basado en ese prototipo. (se lanza al mercado lo antes posible para ocupar ese hueco que el proyecto quiere ocupar).
+   * El evolutivo, se comporta muy similar que el rápido solo que no busca yenar el hueco de mercado lo antes posible, ya que se crea un        prototipo en el mismo lenguaje o herramienta que el proyecto para después basarse en el y crear el proyecto en esa base.
 
 		 
 
@@ -94,7 +94,8 @@
  **5** SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. 
 
 	* Método incremental de su desarrollo.
-	* División del desarrollo o requerimiento del cliente en Sprint (Valor) que se entrega casa 2/4 semanas. Estas divisiones no pueden superar las 8h realaes, sino se tienen que dividir.
+	* División del desarrollo o requerimiento del cliente en Sprint (Valor) que se entrega casa 2/4 semanas. 
+	  Estas divisiones no pueden superar las 8h realaes, sino se tienen que dividir.
 	* Al principio de cada Sprint se tienen que decir que requisitos son prioritarios para entregar al cliente
 	* Cada entrega de valor se hace con una reunion y demostración funcional del valor al cliente que durara unas 4/6 hs
 	* En esta metodologia hay una reunion diaria de unos 10 min para ver como va el sprint y que problemas se ha encontrado el equipo. 
