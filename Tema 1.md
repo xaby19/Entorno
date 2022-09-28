@@ -64,10 +64,10 @@
 
    * Se enseña un primer diseño al cliente para que de su opinión y vea en que estamos trabajando, de este modo hay un feedback y puede a ver cambio en los requisitos. Esto se repita tantas veces como sea necesario hasta que el prototipo este a la venta.
    * hay dos tipos de *prototipos*:
-     * El prototipo rápido que se puede desatollar el mismo lenguaje o herramienta y finalmente se desecha para acabar vendiendo el proyecto en si basado en ese prototipo. (se lanza al mercado lo antes posible para ocupar ese hueco que el proyecto quiere ocupar).
-     * El evolutivo, se comporta muy similar que el rápido solo que no busca yenar el hueco de mercado lo antes posible, ya que se crea un prototipo en el mismo lenguaje o herramienta que el proyecto para después basarse en el y crear el proyecto en esa base.
+   * El prototipo rápido que se puede desatollar el mismo lenguaje o herramienta y finalmente se desecha para acabar vendiendo el proyecto en si basado en ese prototipo. (se lanza al mercado lo antes posible para ocupar ese hueco que el proyecto quiere ocupar).
+   * El evolutivo, se comporta muy similar que el rápido solo que no busca yenar el hueco de mercado lo antes posible, ya que se crea un prototipo en el mismo lenguaje o herramienta que el proyecto para después basarse en el y crear el proyecto en esa base.
 
-​		 
+		 
 
 ## Metodologías Ágiles
 
