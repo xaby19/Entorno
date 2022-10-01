@@ -121,3 +121,81 @@
 	* El código fuente no es propiedad de un solo individuo, sino de todo el equipo.
 	* el equipo tiene que usar siempre los mismos estadares topodos para así hacer una integracion facil.
 	* Y los proyectos divididos no superan las cuarenta horas semanalas o las ocho diarias.
+
+
+
+# Lenguaje de programación
+
+1. ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
+
+   1. decimos el resulresultado que queremos obterner sin indicar los pasos a seguir, sintexis breve y abstracta. (SQL, Prolog )
+   2. Decimos de manera mas conciso los pasos a seguir para obtener el resultado, sin ser tan abtracto ni breve(JavaScript, Java)
+
+   ------
+
+2. ¿Explica qué es compilar? ¿Explica qué es interpretar?
+
+   1. Copilar es obtener un paquete con el código verboso que nosotros hemos usado y lo pasa a binario para que la maquina lo interprete,
+   2. Interpretar es coger el código que hemos creado que no son mas que ordenes y el interprete, va leyendo de una en una las líneas de ese código ,
+
+   ------
+
+3. Ventajas de los lenguajes compilados.
+
+   1. Los lenguajes copilados, son lenguajes de tipado fuerte algo más seguros que los lenguajes de tipado débil pero no son para nada dinámicos, algunos son poco amables con los que empiezan a programar. Se usan más para la creación de app de escritorio o usa de videojuegos.
+
+   ------
+
+4. Ventajas de los lenguajes interpretados.
+
+   1. Los lenguajes interpretados suelen ser más dinámicos y más débiles de tiempado, buscando un dinamismo y facilidad al programador, se usan normalmente en la creación de app web o web en general. Si es cierto que son menos seguro
+
+   ------
+
+5. Nombra 2 lenguajes compilados y otros 2 interpretados.
+
+   1. c y c++ 
+   2. JavaScrip y Php
+
+   ------
+
+6. ¿Puede considerarse código objeto el **bytecode** generado en Java tras la compilación? Explica la respuesta.
+
+   ------
+
+7. Pon un ejemplo de lenguaje de los siguientes tipos:
+
+   - Bajo nivel. Lenguaje Copilador
+
+   - Nivel medio. El lenguaje C
+
+   - Alto nivel. Paython
+
+     ------
+
+8. ¿Qué paradigma de programación siguen los siguientes lenguajes?
+
+   - C *Estructurado*
+   - C++ *Multiparadigma*
+   - SQL *Algebraico*
+   - Java *Multiparadigma*
+   - Javascript *Multiparadigma*
+   - Lisp *Funcionales*
+   - Prolog *Logico*
+
+   Puedes consultar el siguiente enlace:
+
+   - https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n
+
+     ------
+
+9. Explica qué criterios pueden seguirse a la hora de elegir un lenguade de programación para el desarrollo software.
+
+   1. **Campos de Aplicación**: Debemos tener en cuenta que lenguaje se usa o es más conveniente para el proyecto que vamos a realizar.
+   2.  **Experiencia Previa**:  Utilizaremos un lenguaje que ya conozcamos o tengamos facilidad para ello si es posible, dentro de ese campo de aplicación.
+   3. **Herramientas de desarrollo:** Considerando el lenguaje final que vamos a usar deberemos tener enceuenta que herramienta es la mas beneficiosa para este proyecto y que IDE'S son los más efectivos
+   4. **Documentación Disponible:** Miraremos la documentación que hay de esta herramienta y cuanta comunidad lo utiliza, así será más fácil encontrar documentación veraz y solucionar lo antes posible problemas inesperados con las herramientas elegidas.
+   5. **Base de Usuarios:** La comunidad que utiliza este lenguaje y si la documentación esta actualizada a la realidad de hoy en día.
+   6. **Reusabilidad:** Siempre tener cuenta la reusabilidad del lenguaje para otros proyectos o para el mismo, sea capaz sobre todo de crear componentes que puedan volver a utilizarse de nuevo.
+   7. **Transportabilidad:** Si el lenguaje es capaz de migrar a otro más conveniente o más novedoso que aporte mejoras.
+   8. **Imposición del cliente:** Siempre tener en cuenta si el cliente quiere que trabajemos en un lenguaje determinado, si es así intentar mediar y si no se puede aprenderlo lo antes posible con la documentación y la comunidad que exista.
