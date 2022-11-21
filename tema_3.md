@@ -1,6 +1,8 @@
 # [Entornos integrados de desarrollo](http://jamj2000.github.io/entornosdesarrollo/2/actividades#indice)
 
 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
+   [Sublime](capturas/Captura desublime4.png)
+   
 
    
 
